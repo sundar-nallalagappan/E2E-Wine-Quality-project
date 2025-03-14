@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 artifacts/*
+e2e_ml_proj_accessKeys.csv
 
 # C extensions
 *.so
